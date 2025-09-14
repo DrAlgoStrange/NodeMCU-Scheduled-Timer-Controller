@@ -398,7 +398,7 @@ void handleRoot() {
 </head>
 <body>
     <div class="container">
-        <h1>⏰ Timer Controller</h1>
+        <h1>NodeMcu Timer Controller</h1>
         
         <div class="time-display" id="timeDisplay">--:--:--</div>
         <div class="date-display" id="dateDisplay">--/--/----</div>
