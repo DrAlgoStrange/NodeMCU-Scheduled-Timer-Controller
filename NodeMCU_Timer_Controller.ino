@@ -22,7 +22,7 @@ const int RELAY_PIN_3 = 4;  // D2
 //Git hub Details
 // OTA Update settings
 const char* githubRawURL = "https://raw.githubusercontent.com/DrAlgoStrange/NodeMCU-Scheduled-Timer-Controller/main/NodeMCU_Timer_Controller.ino";//https://raw.githubusercontent.com/[USERNAME]/[REPOSITORY]/[BRANCH]/[FILENAME]
-const String currentVersion = "v1.0.0"; // Change this when you update code
+const String currentVersion = "v1.0.1"; // Change this when you update code
 unsigned long lastUpdateCheck = 0;
 const unsigned long updateCheckInterval = 3600000; // Check every hour (milliseconds)
 
